@@ -1,0 +1,14 @@
+{
+	"development": {
+		"address": "",
+		"port": 3306,
+		"user": "",
+		"password": ""
+	},
+	"production": {
+		"address": "",
+		"port": 3306,
+		"user": "",
+		"password": ""
+	}
+}
